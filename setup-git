@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+EMAIL="farhanoktvn@gmail.com"
+NAME="farhanoktvn"
+
+git config --global user.email $EMAIL
+git config --global user.name $NAME
